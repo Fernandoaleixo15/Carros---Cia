@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+/*--Estilos Globais--*/
+.secao{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h2{
+    font-weight: normal;
+    color: #000;
+    margin-top: 0;
+}
+h3{
+    color: #000;
+    font-size: 28px;
+    line-height: 42px;
+}
+.paragrafo{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+.imagem{
+    width: 450px;
+    box-shadow: 10px 5px 15px #252222;
+}
+
+/*--Estilos para Destaque--*/
+.amarelo{
+    color: #ae360b;
+    font-weight: bold;
+}
+
+/*--Seção Um--*/
+.secao-topo{
+    width: 100%;
+    background-color: #000;
+    border-bottom: 1px solid #d5960054;
+    padding-bottom: 15px;
+    position: fixed;
+    top: 0;
+    
+}
+.secao-topo h1{
+    color: #8ab80c;
+    text-align: center;
+    margin-top: 10px;
+}
+.secao-topo .parragrafro-parragrafo-topo{
+    padding: 10px;
+    text-align: center;
+    margin: 5px ;
+}
+.secao-topo a{
+    padding: 10px;
+    color: #3f5306;
+    font-size: 20px;
+    border: 1px solid #5c0303;
+    border-radius: 10px;
+    margin:0 5px ;
+}
+/* segunda Seção*/
+.banner{
+    width: 100%;
+}
+/* três e quatro estilos globais*/
+
+/* quinta Seção*/
+.paragrafo-contato{
+
+    text-align: center;
+    color: rgb(243, 242, 242);
+    background-color: #630202;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+} 
+.link{
+    text-decoration: none;
+    border: 2px solid #141413;
+    border-radius: 10px ;
+    color: #0e0d0d;
+    padding: 5px ;
+    background-color: #d59600;
+}
+.secao-Rodapé p{
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    padding: 15px;
+}
+
